@@ -5,7 +5,7 @@ On a big journey to grow every day — through online courses, coding challenges
 
 ---
 
-### Tools I use:
+### Tools I use everyday:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
@@ -19,7 +19,3 @@ On a big journey to grow every day — through online courses, coding challenges
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## Feel free to reach out to me anytime, anywhere
