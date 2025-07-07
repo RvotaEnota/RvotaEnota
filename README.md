@@ -1,7 +1,7 @@
 ## 👋 Привет | Hello | 你好
 
 I'm passionate about learning in general, especially Machine Learning and Data Science.  
-I’m on a journey to grow every day — through online courses, coding challenges on [Stepik](https://stepik.org/users/806900673/) and [LeetCode](https://leetcode.com/u/RvotaEnota/), and solving real-world tasks on [Kaggle](https://www.kaggle.com/jekaizjeka).
+On a big journey to grow every day — through online courses, coding challenges on [Stepik](https://stepik.org/users/806900673/) and [LeetCode](https://leetcode.com/u/RvotaEnota/), and solving real-world tasks on [Kaggle](https://www.kaggle.com/jekaizjeka).
 
 ---
 
@@ -22,4 +22,4 @@ I’m on a journey to grow every day — through online courses, coding challeng
 
 ---
 
-### Feel free to reach out to me anytime, anywhere
+## Feel free to reach out to me anytime, anywhere
