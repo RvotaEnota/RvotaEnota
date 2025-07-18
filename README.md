@@ -19,6 +19,7 @@ On a big journey to grow every day — through online courses, coding challenges
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 - English b2
 - Chinese HSK2
